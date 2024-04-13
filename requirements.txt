@@ -1,2 +1,6 @@
-django>=3.2.4
-djangorestframework>=3.12.4
+Django>=4.0.4
+djangorestframework>=3.13.1
+psycopg-c
+psycopg==3.1.8
+# # psycopg-binary==3.1.8
+# psycopg[binary,pool]
